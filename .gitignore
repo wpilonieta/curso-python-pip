@@ -248,8 +248,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # imagenes proyecto
-app/imgs/*
+.app/imgs/*
 *.png
-app/*.png
+.app/*.png
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
